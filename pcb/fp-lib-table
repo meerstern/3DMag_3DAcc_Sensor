@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SlopeSensor_v1)(type KiCad)(uri ${KIPRJMOD}/parts/SlopeSensor_v1.pretty)(options "")(descr ""))
+  (lib (name GroveCon)(type KiCad)(uri ${KIPRJMOD}/parts/GroveCon.pretty)(options "")(descr ""))
+)
